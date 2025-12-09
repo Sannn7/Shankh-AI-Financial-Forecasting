@@ -52,8 +52,8 @@ AI-Stock-Price-Forecasting/
 │   ├── src/                # Components, pages, and hooks
 │   └── public/             # Static assets
 └── ...
-
-## 📊 Model Performance
+```
+## Model Performance
 
 We evaluated multiple architectures. Our **XGBoost-BiLSTM-Attention** model outperformed others:
 
@@ -76,19 +76,21 @@ cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 ### Run the Server
+```bash
 uvicorn main:app --reload
-
+```
 
 ### 2. Frontend Setup
-
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
-### Dashboard Interface
-![Dashboard](image.png)
-
-### Model Results & Analysis
-![Analysis Graphs](image-1.png)
+Dashboard Interface
+![alt text](image.png)
+Model Results & Analysis
+![alt text](image-1.png)
