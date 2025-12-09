@@ -12,7 +12,6 @@
 *   **Sentiment Analysis:** Analyzes Twitter data using **OpenAI (GPT-3.5)** and **Tweepy** to gauge market mood (Bullish/Bearish/Neutral).
 *   **Financial Analysis:** Evaluates quarterly financial statements to generate long-term signals.
 *   **Interactive Dashboard:** A clean, user-friendly UI built with React and Tailwind CSS.
-*   **Chatbot Advisor:** Integrated AI assistant for financial queries.
 
 ##  Architecture
 
