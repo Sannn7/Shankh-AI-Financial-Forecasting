@@ -1,0 +1,22 @@
+[
+    {
+        "ticker": "TATAMOTORS.NS",
+        "name": "Tata Motors Ltd."
+    },
+    {
+        "ticker": "RELIANCE.NS",
+        "name": "Reliance Industries Ltd."
+    },
+    {
+        "ticker": "ICICIBANK.NS",
+        "name": "ICICI Bank Ltd."
+    },
+    {
+        "ticker": "HINDUNILVR.NS",
+        "name": "Hindustan Unilever Ltd."
+    },
+    {
+        "ticker": "BAJAJFINSV.NS",
+        "name": "Bajaj Finserv Ltd."
+    }
+]
